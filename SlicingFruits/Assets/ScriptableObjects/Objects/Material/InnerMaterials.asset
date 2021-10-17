@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 731ca994b0e482f4495c5eac1193bd1c, type: 3}
+  m_Name: InnerMaterials
+  m_EditorClassIdentifier: 
+  materialsFruitPairs:
+  - name: Pear
+    material: {fileID: 2100000, guid: c08a1d5e6a2c0e74daa2fa8f0b6f5431, type: 2}
+  - name: Watermelon
+    material: {fileID: 2100000, guid: 318d03a744eeda148b40d8c4240839ef, type: 2}
+  - name: Strawberry
+    material: {fileID: 2100000, guid: 5b0b544cfb8d1f647918c4e71fd4f6d5, type: 2}
